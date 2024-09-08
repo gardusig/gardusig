@@ -1,6 +1,6 @@
 ## Contents
 
-- **[Interview Preparation](./preparation/README.md):** Strategies, tips, and resources to help you ace different types of interviews, including coding, behavioral, and system design.
+- **[Interview Preparation](https://github.com/gardusig/road2senior/README.md):** Strategies, tips, and resources to help you ace different types of interviews, including coding, behavioral, and system design.
 - **[Resume](./resume/resume.pdf):** My professional resume, showcasing my experience, skills, and achievements.
   
 ## System Design
