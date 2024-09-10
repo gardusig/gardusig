@@ -1,4 +1,20 @@
-## Contents
+## Summary
+
+- [Summary](#summary)
+- [Competitive Programming](#competitive-programming)
+- [Personal](#personal)
+- [System Design](#system-design)
+
+## Competitive Programming
+
+These experiences have sharpened my skills in algorithm design, data structures, and programming under pressure, making me adept at tackling complex problems quickly and effectively.
+
+- **[Meta HackerCup](https://www.facebook.com/codingcompetitions/hacker-cup):** Earned 3 consecutive T-shirts.
+    ![HackerCup](./competitive-programming/hacker-cup.jpg)
+- **[Codeforces](https://codeforces.com/)/[CodeChef](https://www.codechef.com/):** Achieved First Division status on both platforms.
+- **[ICPC Latin America Finals](https://icpc.global/):** Competed in 4 regional finals.
+
+## Personal
 
 - **[Interview Preparation](https://github.com/gardusig/road2senior/):** Strategies, tips, and resources to help you ace different types of interviews, including coding, behavioral, and system design.
 - **[Resume](./resume/resume.pdf):** My professional resume, showcasing my experience, skills, and achievements.
