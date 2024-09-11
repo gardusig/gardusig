@@ -1,14 +1,24 @@
 ## Summary
 
 - [Summary](#summary)
-- [Personal](#personal)
+- [Interviewing](#interviewing)
+- [Scripts](#scripts)
 - [System Design](#system-design)
 - [Competitive Programming](#competitive-programming)
 
-## Personal
+## Interviewing
+
+Resources and tools to help you prepare for various types of interviews, from coding and system design to behavioral interviews, along with my professional resume.
 
 - **[Interview Preparation](https://github.com/gardusig/road2senior/):** A collection of strategies, tips, and resources to help you excel in different types of interviews, including coding, behavioral, and system design.
 - **[Resume](./resume/resume.pdf):** My professional resume, detailing my experience, skills, and achievements.
+
+## Scripts
+
+Automate tasks using scripts, whether through Python and browser automation tools or lightweight JavaScript bookmarklets.
+
+- **[Web Driver Scripts](https://github.com/gardusig/web-driver-scripts):** A collection of Python scripts leveraging Selenium and Chromium to automate tasks within a web browser, such as form filling, page navigation, and data extraction, allowing for efficient browser automation.
+- **[Bookmarklets](https://github.com/gardusig/bookmarklets):** A set of JavaScript bookmarklets designed to automate tasks directly within the browser. These include TypeScript code to interact with individual web pages, with internal tooling to convert the scripts to JavaScript.
   
 ## System Design
 
