@@ -7,23 +7,27 @@
 
 ## Personal
 
-- **[Interview Preparation](https://github.com/gardusig/road2senior/):** Strategies, tips, and resources to help you ace different types of interviews, including coding, behavioral, and system design.
-- **[Resume](./resume/resume.pdf):** My professional resume, showcasing my experience, skills, and achievements.
+- **[Interview Preparation](https://github.com/gardusig/road2senior/):** A collection of strategies, tips, and resources to help you excel in different types of interviews, including coding, behavioral, and system design.
+- **[Resume](./resume/resume.pdf):** My professional resume, detailing my experience, skills, and achievements.
   
 ## System Design
 
 Explore the systems I've created to demonstrate my design skills and approach to solving complex problems:
 
-- **[Generic Node Service](https://github.com/gardusig/genericNodeService):** A scalable and modular server-side application built with Node.js using the NestJS framework, designed to handle various backend functionalities such as API management, authentication, and database operations while ensuring high performance and reliability.
+- **[Generic Node Service](https://github.com/gardusig/genericNodeService):** A scalable, modular server-side application built with Node.js using the NestJS framework. It handles various backend functionalities, such as API management, authentication, and database operations, ensuring high performance and reliability.
     ![GenericNodeService](./system-design/genericNodeService.png)
-- **[Journaling](https://github.com/gardusig/journaling):** A Google Apps Script-based system to automate the creation and management of journaling documents in Google Drive.
+- **[Journaling](https://github.com/gardusig/journaling):** A Google Apps Script-based system to automate the creation and management of journaling documents in Google Drive, enhancing personal productivity and organization.
     ![Journaling](./system-design/journaling.png)
+
 
 ## Competitive Programming
 
-These experiences have sharpened my skills in algorithm design, data structures, and programming under pressure, making me adept at tackling complex problems quickly and effectively.
+My competitive programming experience has honed my skills in algorithm design, data structures, and problem-solving under pressure, enabling me to tackle complex challenges effectively and efficiently.
 
-- **[Codeforces](https://codeforces.com/)/[CodeChef](https://www.codechef.com/):** Achieved First Division status on both platforms.
-- **[ICPC Latin America Finals](https://icpc.global/):** Competed in 4 regional finals.
-- **[Meta HackerCup](https://www.facebook.com/codingcompetitions/hacker-cup):** Earned 3 consecutive T-shirts.
+- **[Competitive Programming Repository](https://github.com/gardusig/competitive-programming):** A collection of solved problems, reference algorithms, and techniques used in various contests, showcasing my skills in algorithm design and optimization.
+- **Achievements:**
+  - **[CodeChef](https://www.codechef.com/users/gardusig):** 1st Division.
+  - **[Codeforces](https://codeforces.com/profile/gardusig):** 1st Division.
+  - **[ICPC Latin America Finals](https://icpc.global/ICPCID/SP7WIXMME8B8):** Competed in 4 regional finals.
+  - **[Meta HackerCup](https://www.facebook.com/codingcompetitions/hacker-cup):** Earned 3 consecutive T-shirts.
     ![HackerCup](./competitive-programming/hacker-cup.jpg)
