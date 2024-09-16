@@ -1,3 +1,11 @@
+## Summary
+
+- [Summary](#summary)
+- [System Design](#system-design)
+- [Scripts](#scripts)
+- [Competitive Programming](#competitive-programming)
+- [Interviewing](#interviewing)
+
 ## System Design
 
 Explore the systems I've created to demonstrate my design skills and approach to solving complex problems:
