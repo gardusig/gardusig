@@ -29,10 +29,7 @@ Explore the systems I've created to demonstrate my design skills and approach to
 - **[Journaling](https://github.com/gardusig/journaling):** A Google Apps Script-based system to automate the creation and management of journaling documents in Google Drive, enhancing personal productivity and organization.
     ![Journaling](https://raw.githubusercontent.com/gardusig/journaling/main/system-design.png)
 - **[Stock Manager](https://github.com/gardusig/stockManager):** A Google Apps Script application that manages stock transactions and generates detailed reports within Google Sheets. It reads transaction data from a sheet, aggregates stock positions, calculates trade details, and produces a monthly trade report. It is designed to automate the workflow of managing stocks by processing data directly within Google Sheets.
-    ![StockManager](./system-design/stocks.png)
-
-
-
+    ![StockManager](https://raw.githubusercontent.com/gardusig/stock-manager/main/system-design.png)
 
 ## Competitive Programming
 
