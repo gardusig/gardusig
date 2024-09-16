@@ -1,25 +1,3 @@
-## Summary
-
-- [Summary](#summary)
-- [Interviewing](#interviewing)
-- [Scripts](#scripts)
-- [System Design](#system-design)
-- [Competitive Programming](#competitive-programming)
-
-## Interviewing
-
-Resources and tools to help you prepare for various types of interviews, from coding and system design to behavioral interviews, along with my professional resume.
-
-- **[Interview Preparation](https://github.com/gardusig/road2senior/):** A collection of strategies, tips, and resources to help you excel in different types of interviews, including coding, behavioral, and system design.
-- **[Resume](./resume/resume.pdf):** My professional resume, detailing my experience, skills, and achievements.
-
-## Scripts
-
-Automate tasks using scripts, whether through Python and browser automation tools or lightweight JavaScript bookmarklets.
-
-- **[Web Driver Scripts](https://github.com/gardusig/web-driver-scripts):** A collection of Python scripts leveraging Selenium and Chromium to automate tasks within a web browser, such as form filling, page navigation, and data extraction, allowing for efficient browser automation.
-- **[Bookmarklets](https://github.com/gardusig/bookmarklets):** A set of JavaScript bookmarklets designed to automate tasks directly within the browser. These include TypeScript code to interact with individual web pages, with internal tooling to convert the scripts to JavaScript.
-  
 ## System Design
 
 Explore the systems I've created to demonstrate my design skills and approach to solving complex problems:
@@ -31,6 +9,13 @@ Explore the systems I've created to demonstrate my design skills and approach to
 - **[Stock Manager](https://github.com/gardusig/stockManager):** A Google Apps Script application that manages stock transactions and generates detailed reports within Google Sheets. It reads transaction data from a sheet, aggregates stock positions, calculates trade details, and produces a monthly trade report. It is designed to automate the workflow of managing stocks by processing data directly within Google Sheets.
     ![StockManager](https://raw.githubusercontent.com/gardusig/stock-manager/main/system-design.png)
 
+## Scripts
+
+Automate tasks using scripts, whether through Python and browser automation tools or lightweight JavaScript bookmarklets.
+
+- **[Bookmarklets](https://github.com/gardusig/bookmarklets):** A set of JavaScript bookmarklets designed to automate tasks directly within the browser. These include TypeScript code to interact with individual web pages, with internal tooling to convert the scripts to JavaScript.
+- **[Web Driver Scripts](https://github.com/gardusig/web-driver-scripts):** A collection of Python scripts leveraging Selenium and Chromium to automate tasks within a web browser, such as form filling, page navigation, and data extraction, allowing for efficient browser automation.
+
 ## Competitive Programming
 
 My competitive programming experience has honed my skills in algorithm design, data structures, and problem-solving under pressure, enabling me to tackle complex challenges effectively and efficiently.
@@ -41,4 +26,11 @@ My competitive programming experience has honed my skills in algorithm design, d
   - **[Codeforces](https://codeforces.com/profile/gardusig):** 1st Division.
   - **[ICPC Latin America Finals](https://icpc.global/ICPCID/SP7WIXMME8B8):** Competed in 4 regional finals.
   - **[Meta HackerCup](https://www.facebook.com/codingcompetitions/hacker-cup):** Earned 3 consecutive T-shirts.
-    ![HackerCup](./competitive-programming/hacker-cup.jpg)
+    ![HackerCup](https://raw.githubusercontent.com/gardusig/competitive-programming/main/hacker-cup.jpg)
+
+## Interviewing
+
+Resources and tools to help you prepare for various types of interviews, from coding and system design to behavioral interviews, along with my professional resume.
+
+- **[Interview Preparation](https://github.com/gardusig/road2senior/):** A collection of strategies, tips, and resources to help you excel in different types of interviews, including coding, behavioral, and system design.
+- **[Resume](https://github.com/gardusig/road2senior/blob/main/resume/resume.pdf):** My professional resume, detailing my experience, skills, and achievements.
