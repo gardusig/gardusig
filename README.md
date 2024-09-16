@@ -1,10 +1,17 @@
 ## Summary
 
 - [Summary](#summary)
+- [Interviewing](#interviewing)
 - [System Design](#system-design)
 - [Scripts](#scripts)
 - [Competitive Programming](#competitive-programming)
-- [Interviewing](#interviewing)
+
+## Interviewing
+
+Resources and tools to help you prepare for various types of interviews, from coding and system design to behavioral interviews, along with my professional resume.
+
+- **[Interview Preparation](https://github.com/gardusig/road2senior/):** A collection of strategies, tips, and resources to help you excel in different types of interviews, including coding, behavioral, and system design.
+- **[Resume](https://github.com/gardusig/road2senior/blob/main/resume/resume.pdf):** My professional resume, detailing my experience, skills, and achievements.
 
 ## System Design
 
@@ -35,10 +42,3 @@ My competitive programming experience has honed my skills in algorithm design, d
   - **[ICPC Latin America Finals](https://icpc.global/ICPCID/SP7WIXMME8B8):** Competed in 4 regional finals.
   - **[Meta HackerCup](https://www.facebook.com/codingcompetitions/hacker-cup):** Earned 3 consecutive T-shirts.
     ![HackerCup](https://raw.githubusercontent.com/gardusig/competitive-programming/main/hacker-cup.jpg)
-
-## Interviewing
-
-Resources and tools to help you prepare for various types of interviews, from coding and system design to behavioral interviews, along with my professional resume.
-
-- **[Interview Preparation](https://github.com/gardusig/road2senior/):** A collection of strategies, tips, and resources to help you excel in different types of interviews, including coding, behavioral, and system design.
-- **[Resume](https://github.com/gardusig/road2senior/blob/main/resume/resume.pdf):** My professional resume, detailing my experience, skills, and achievements.
