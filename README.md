@@ -18,7 +18,7 @@ Resources and tools to help you prepare for various types of interviews, from co
 Explore the systems I've created to demonstrate my design skills and approach to solving complex problems:
 
 - **[Generic Node Service](https://github.com/gardusig/genericNodeService):** A scalable, modular server-side application built with Node.js using the NestJS framework. It handles various backend functionalities, such as API management, authentication, and database operations, ensuring high performance and reliability.
-    ![GenericNodeService](https://raw.githubusercontent.com/gardusig/genericNodeService/main/design.png)
+    ![GenericNodeService](https://raw.githubusercontent.com/gardusig/simpleNodeService/refs/heads/main/images/system-design.png)
 - **[Journaling](https://github.com/gardusig/journaling):** A Google Apps Script-based system to automate the creation and management of journaling documents in Google Drive, enhancing personal productivity and organization.
     ![Journaling](https://raw.githubusercontent.com/gardusig/journaling/main/system-design.png)
 - **[Stock Manager](https://github.com/gardusig/stockManager):** A Google Apps Script application that manages stock transactions and generates detailed reports within Google Sheets. It reads transaction data from a sheet, aggregates stock positions, calculates trade details, and produces a monthly trade report. It is designed to automate the workflow of managing stocks by processing data directly within Google Sheets.
