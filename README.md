@@ -2,8 +2,8 @@
 
 - [Summary](#summary)
 - [Interviewing](#interviewing)
-- [System Design](#system-design)
 - [Scripts](#scripts)
+- [System Design](#system-design)
 - [Competitive Programming](#competitive-programming)
 
 ## Interviewing
@@ -12,6 +12,13 @@ Resources and tools to help you prepare for various types of interviews, from co
 
 - **[Interview Preparation](https://github.com/gardusig/road2senior/):** A collection of strategies, tips, and resources to help you excel in different types of interviews, including coding, behavioral, and system design.
 - **[Resume](https://github.com/gardusig/road2senior/blob/main/resume/resume.pdf):** My professional resume, detailing my experience, skills, and achievements.
+
+## Scripts
+
+Automate tasks using scripts, whether through Python and browser automation tools or lightweight JavaScript bookmarklets.
+
+- **[Bookmarklets](https://github.com/gardusig/bookmarklets):** A set of JavaScript bookmarklets designed to automate tasks directly within the browser. These include TypeScript code to interact with individual web pages, with internal tooling to convert the scripts to JavaScript.
+- **[Web Driver Scripts](https://github.com/gardusig/web-driver-scripts):** A collection of Python scripts leveraging Selenium and Chromium to automate tasks within a web browser, such as form filling, page navigation, and data extraction, allowing for efficient browser automation.
 
 ## System Design
 
@@ -23,13 +30,6 @@ Explore the systems I've created to demonstrate my design skills and approach to
     ![Journaling](https://raw.githubusercontent.com/gardusig/journaling/main/system-design.png)
 - **[Stock Manager](https://github.com/gardusig/stockManager):** A Google Apps Script application that manages stock transactions and generates detailed reports within Google Sheets. It reads transaction data from a sheet, aggregates stock positions, calculates trade details, and produces a monthly trade report. It is designed to automate the workflow of managing stocks by processing data directly within Google Sheets.
     ![StockManager](https://raw.githubusercontent.com/gardusig/stock-manager/main/system-design.png)
-
-## Scripts
-
-Automate tasks using scripts, whether through Python and browser automation tools or lightweight JavaScript bookmarklets.
-
-- **[Bookmarklets](https://github.com/gardusig/bookmarklets):** A set of JavaScript bookmarklets designed to automate tasks directly within the browser. These include TypeScript code to interact with individual web pages, with internal tooling to convert the scripts to JavaScript.
-- **[Web Driver Scripts](https://github.com/gardusig/web-driver-scripts):** A collection of Python scripts leveraging Selenium and Chromium to automate tasks within a web browser, such as form filling, page navigation, and data extraction, allowing for efficient browser automation.
 
 ## Competitive Programming
 
