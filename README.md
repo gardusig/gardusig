@@ -21,7 +21,7 @@ My competitive programming experience has honed my skills in algorithm design, d
 - **Achievements:**
   - **[CodeChef](https://www.codechef.com/users/gardusig):** 1st Division.
   - **[Codeforces](https://codeforces.com/profile/gardusig):** 1st Division.
-  - **[ICPC Latin America Finals](https://icpc.global/ICPCID/SP7WIXMME8B8):** Competed in 4 regional finals.
+  - **[ICPC](https://icpc.global/ICPCID/SP7WIXMME8B8):** Competed in 4 regional finals.
   - **Meta HackerCup:** Earned 3 consecutive T-shirts.
     ![HackerCup](https://raw.githubusercontent.com/gardusig/competitive-programming/main/hacker-cup.jpg)
 
@@ -31,6 +31,9 @@ Explore the systems I've created to demonstrate my design skills and approach to
 
 - **[Simple Node Service](https://github.com/gardusig/simpleNodeService):** A scalable, modular server-side application built with Node.js using the NestJS framework. It handles various backend functionalities, such as API management and database operations, ensuring high performance and reliability.
     ![SimpleNodeService](https://raw.githubusercontent.com/gardusig/simpleNodeService/refs/heads/main/images/system-design.png)
+- **[Split Node Service](https://github.com/gardusig/simpleNodeService):** A scalable, modular server-side application built with Node.js using the NestJS framework. It handles various backend functionalities, such as API management and database operations, ensuring high performance and reliability.
+    ![SplitNodeService](https://raw.githubusercontent.com/gardusig/splitNodeService/refs/heads/main/images/system-design.png)
+
 
 ## Scripts
 
