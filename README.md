@@ -18,7 +18,7 @@
   - **[CodeChef](https://www.codechef.com/users/gardusig):** 1st Division.
   - **[Codeforces](https://codeforces.com/profile/gardusig):** 1st Division.
   - **[ICPC](https://icpc.global/ICPCID/SP7WIXMME8B8):** Competed in 4 regional finals.
-  - **Meta HackerCup:** Earned 3 consecutive T-shirts.
+  - **Meta HackerCup:** Achieved top 2,000 rank for 3 consecutive years, earning a T-shirt as a reward.
     ![HackerCup](https://raw.githubusercontent.com/gardusig/competitive-programming/main/hacker-cup.jpg)
 
 ## System Design
