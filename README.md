@@ -8,7 +8,7 @@
 
 ## Interviewing
 
-- **[Road2Senior](https://github.com/gardusig/road2senior/):** A collection of strategies, tips, and resources to help you excel in different types of interviews, including coding, behavioral, and system design.
+- **[road2senior](https://github.com/gardusig/road2senior/):** A collection of strategies, tips, and resources to help you excel in different types of interviews, including coding, behavioral, and system design.
 - **[Resume](https://github.com/gardusig/road2senior/blob/main/resume/resume.pdf):** My professional resume, detailing my experience, skills, and achievements.
 
 ## Problem Solving
@@ -37,4 +37,4 @@
 ## Scripts
 
 - **[Bookmarklets](https://github.com/gardusig/bookmarklets):** A set of JavaScript bookmarklets designed to automate tasks directly within the browser. These include TypeScript code to interact with individual web pages, with internal tooling to convert the scripts to JavaScript.
-- **[Web Driver Scripts](https://github.com/gardusig/web-driver-scripts):** A collection of Python scripts leveraging Selenium and Chromium to automate tasks within a web browser, such as form filling, page navigation, and data extraction, allowing for efficient browser automation.
+- **[Web Driver](https://github.com/gardusig/web-driver-scripts):** A collection of Python scripts leveraging Selenium and Chromium to automate tasks within a web browser, such as form filling, page navigation, and data extraction, allowing for efficient browser automation.
