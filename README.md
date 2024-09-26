@@ -25,8 +25,6 @@
 
 - **[Simple Node Service](https://github.com/gardusig/simpleNodeService):** A scalable, modular server-side application built with Node.js using the NestJS framework. It handles various backend functionalities, such as API management and database operations, ensuring high performance and reliability.
     ![SimpleNodeService](https://raw.githubusercontent.com/gardusig/simpleNodeService/refs/heads/main/images/system-design.png)
-- **[Split Node Service](https://github.com/gardusig/simpleNodeService):** A scalable, modular server-side application built with Node.js using the NestJS framework. It handles various backend functionalities, such as API management and database operations, ensuring high performance and reliability.
-    ![SplitNodeService](https://raw.githubusercontent.com/gardusig/splitNodeService/refs/heads/main/images/system-design.png)
 - **Google Apps Script:**
     - **[Journaling](https://github.com/gardusig/journaling):** A system to automate the creation and management of journaling documents in Google Drive, enhancing personal productivity and organization.
         ![Journaling](https://raw.githubusercontent.com/gardusig/journaling/main/system-design.png)
