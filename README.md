@@ -6,12 +6,9 @@
 
 ## Interviewing
 
-- **[Resume](https://github.com/gardusig/road2senior/blob/main/resume/resume.pdf):** My professional resume, detailing my experience, skills, and achievements.
+- **[resume](https://github.com/gardusig/road2senior/blob/main/resume/resume.pdf):** My professional resume, detailing my experience, skills, and achievements.
 - **[road2senior](https://github.com/gardusig/road2senior/):** A collection of strategies, tips, and resources to help you excel in different types of interviews, including coding, behavioral, and system design.
-- **Achievements (Competitive Programming):**
-  - **[ICPC](https://icpc.global/ICPCID/SP7WIXMME8B8):** Competed in 4 regional finals.
-  - **Meta HackerCup:** Achieved top 2,000 rank for 3 consecutive years, earning a T-shirt as a reward.
-    ![HackerCup](https://raw.githubusercontent.com/gardusig/competitive-programming/main/hacker-cup.jpg)
+- **[competitive programming](https://github.com/gardusig/competitive-programming):** This repository includes solutions and templates that I’ve developed over years of competition, which are valuable resources for both coding interview preparation and improving problem-solving skills in technical interviews.
 
 ## Projects
 
