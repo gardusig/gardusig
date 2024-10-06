@@ -8,7 +8,7 @@
 
 - **[resume](https://github.com/gardusig/road2senior/blob/main/resume/resume.pdf):** My professional resume, detailing my experience, skills, and achievements.
 - **[road2senior](https://github.com/gardusig/road2senior/):** A collection of strategies, tips, and resources to help you excel in different types of interviews, including coding, behavioral, and system design.
-- **[competitive programming](https://github.com/gardusig/competitive-programming):** This repository includes solutions and templates that I’ve developed over years of competition, which are valuable resources for both coding interview preparation and improving problem-solving skills in technical interviews.
+- **[competitive programming](https://github.com/gardusig/competitive-programming):** Valuable resources for both coding interview preparation and improving problem-solving skills in technical interviews.
 
 ## Projects
 
